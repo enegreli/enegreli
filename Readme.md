@@ -1,6 +1,5 @@
 ## Hi ! I'm Estevão Negreli 
 
-- 💼I work as an intern in the SESISP teaching network
 - 📖 Studying Computer Engineering at College
 - 💻 Hardware Technician
 <div style="display: inline_block"><br>
